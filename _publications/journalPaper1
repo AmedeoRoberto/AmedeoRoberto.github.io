@@ -1,6 +1,6 @@
 ---
 title: "Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage"
-Authors: Amedeo Roberto Esposito, Michael Gastpar, Ibrahim Issa
+authors: Amedeo Roberto Esposito, Michael Gastpar, Ibrahim Issa
 collection: publications
 permalink: /publication/jorunalPaper1
 excerpt: 
@@ -8,4 +8,3 @@ date: 08-2021
 venue: 'IEEE Transactions on Information Theory Volume: 67, Issue: 8'
 paperurl: 'https://ieeexplore.ieee.org/document/9444402'
 ---
-This paper is about the number 1. The number 2 is left for future work.
