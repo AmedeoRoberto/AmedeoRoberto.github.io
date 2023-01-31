@@ -11,7 +11,7 @@ Applications of my results range from Learning Theory (see [here](https://ieeexp
 [here](https://ieeexplore.ieee.org/abstract/document/9444402), 
 [here](https://ieeexplore.ieee.org/abstract/document/8989057), [here](https://arxiv.org/abs/2001.06399), 
 and [here](https://ieeexplore.ieee.org/abstract/document/9174117)), to Probability Theory 
-(see [here](https://ieeexplore.ieee.org/abstract/document/9517944)) and Esitmation Theory (see [here](https://ieeexplore.ieee.org/abstract/document/9517954)
+(see [here](https://ieeexplore.ieee.org/abstract/document/9517944)) and Estimation Theory (see [here](https://ieeexplore.ieee.org/abstract/document/9517954)
 and [here](https://ieeexplore.ieee.org/abstract/document/9834708)).
 
 My current interests consist in a deeper exploration of the framework I set up during my PhD,
