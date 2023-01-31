@@ -22,10 +22,13 @@ One is much slower than the other and before co-existing **both** must exist!
 
 I have a vast range of interests, among which lies my passion for scientific dissemination.
 I was the host of a(n italian) [podcast](https://linktr.ee/ArmoniaPodcast) in which I tried to simplify and render accessible 
-(but most  importantly, applicable) the most recent findings in neuroscience, biology and psychology.
+(but most importantly, applicable) the most recent findings in neuroscience, biology and psychology.
 Part of my plan was also to spread awareness on the high-quality research that is happening in Italy
-in literally any field. My purpose was replying to the following questions: what is Science? 
-How does it work? Where are we at right now in most fields? 
+in, essentially, any field. 
+My purpose was to reply to the following questions:
+- what is Science?  
+- How does it work? 
+- Where are we at right now in most fields? 
 Let us re-ignite the trust of humanity in Science!
 
 I also believe in the importance of mental health and of taking care of oneself. 
