@@ -11,15 +11,12 @@ redirect_from:
 
 You can find my updated CV [here](/files/CV.pdf)
 
-Highlights 
-
-Formation and Research 
-======
-* M.S., Università degli Studi di Salerno, 2017
-* Ph.D., École Polytechnique Fédérale de Lausanne (EPFL), 2022
-* Postdoctoral Researcher, Institute of Science and Technology Austria (ISTA), present
-
 My scientific agenda is summarised [here](/pages/research.md). 
+My list of publications is [here](/pages/publications.md).
+My teaching activity can be found [here](/pages/teaching.md).
+
+Now, a bit about myself.
+
 I believe in Slow Science: deep understanding and scientific production respect different timelines.
 One is much slower than the other and before co-existing **both** must exist!
 
