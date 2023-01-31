@@ -14,4 +14,4 @@ I believe in [Slow Science](http://slow-science.org/) and in Scientific Divulgat
 
 I am interested in every aspect of science but mostly in Mathematics, Theoretical Computer Science, Neuroscience, Psychology and Biology. 
 
-[Here](AmedeoRoberto.github.io/files/CV.pdf) you can find the latest version of my CV. 
+[Here](/files/CV.pdf) you can find the latest version of my CV. 
