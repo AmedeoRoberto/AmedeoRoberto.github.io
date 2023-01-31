@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Postdoctoral Resarcher at the [Institute of Science and Technology Austria](https://ist.ac.at/en/home/) hosted by [Marco Mondelli](http://marcomondelli.com/). I received my Doctoral Degree in 2022 from the [École Polytechnique Fédérale de Lausanne - EPFL](https://www.epfl.ch/en/) where I had the pleasure of being adviced by Prof. [Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en). I received my MSc degree in 2017 from the Department of [Computer Science](https://www.di.unisa.it/en) of the [Università degli Studi di Salerno](https://web.unisa.it/en/home) which has been selected, for the second time in a row, as an ['excellent department'](https://www.di.unisa.it/unisa-rescue-page/dettaglio/id/1356/module/488/row/2532) by the Italian Ministry of Universities and Research.
+
+I believe in [Slow Science](http://slow-science.org/) and in Scientific Divulgation. 
+
+I am interested in every aspect of science but mostly in Mathematics, Theoretical Computer Science, Neuroscience, Psychology and Biology. 
 
 A data-driven personal website
 ======
