@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amedeo Roberto Esposito"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher"
+  bio              : "Scientist"
   location         : "Vienna, Austria"
   employer         : "ISTA"
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Zdpr-KcAAAAJ"
-  email            : "aesposit@ist.ac.at"
+  email            : "amedeoroberto.esposito@ist.ac.at"
   researchgate     : "https://www.researchgate.net/profile/Amedeo-Esposito"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "AmedeoRoberto"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -227,15 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
