@@ -15,7 +15,7 @@ and [here](https://ieeexplore.ieee.org/abstract/document/9174117)), to Probabili
 and [here](https://ieeexplore.ieee.org/abstract/document/9834708)).
 
 My current interests consist in a deeper exploration of the framework I set up during my PhD,
-and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com)
+and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com).
 
 The work I am most proud of is, at the moment, only available as a [conference paper](https://ieeexplore.ieee.org/abstract/document/9834354) 
 (Journal on its way). It encapsulates my view in which Information Measures simply are a bridge between spaces of measures
