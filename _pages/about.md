@@ -12,6 +12,6 @@ I am a Postdoctoral Resarcher at the [Institute of Science and Technology Austri
 
 I believe in [Slow Science](http://slow-science.org/) and in Scientific Divulgation. 
 
-I am interested in every aspect of science but mostly in Mathematics, Theoretical Computer Science, Neuroscience, Psychology and Biology. 
+I am interested in every aspect of science but mostly in Mathematics, Information Theory, Theoretical Computer Science, Neuroscience, Psychology and Biology. 
 
 [Here](/files/CV.pdf) you can find the latest version of my CV. 
