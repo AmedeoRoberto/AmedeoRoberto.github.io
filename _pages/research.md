@@ -14,9 +14,12 @@ and [here](https://ieeexplore.ieee.org/abstract/document/9174117)), to Probabili
 (see [here](https://ieeexplore.ieee.org/abstract/document/9517944)) and Estimation Theory (see [here](https://ieeexplore.ieee.org/abstract/document/9517954)
 and [here](https://ieeexplore.ieee.org/abstract/document/9834708)).
 
-My current interests consist in a deeper exploration of the framework I set up during my PhD,
-and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com).
-
 The work I am most proud of is, at the moment, only available as a [conference paper](https://ieeexplore.ieee.org/abstract/document/9834354) 
 (a longer version is on its way). It encapsulates my views in which Information Measures simply are a bridge between spaces of measures
 and spaces of functions and therein lies their power. 
+
+My current interests consist in a deeper exploration of the framework I set up during my PhD,
+and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com).
+We are applying these techniques to provide new results on the concentration of measure phenomenon for dependent random variables.
+I will soon share a link to the paper that synthesises these efforts. 
+
