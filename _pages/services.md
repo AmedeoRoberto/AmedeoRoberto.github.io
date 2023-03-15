@@ -5,13 +5,13 @@ permalink: /services/
 author_profile: true
 ---
 
-<h2> Committee Member </h2>
+<h2> Conferences Organisation </h2>
 <ul>
 <li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/organization/technical-program-committee">LINK</a></li>
 <li> PC-Member for the Workshop on Federated Learning Technologies 2023, <a href="https://flw.di.unito.it/program-committee/">LINK</a></li>
 </ul>
 
-<h2>Active reviewer for</h2>
+<h2>Active reviewer for:</h2>
 <ul>
 <li> IEEE Transactions on Information Theory</li>
 <li> IEEE Journal on Selected Areas in Information Theory (JSAIT) </li>
