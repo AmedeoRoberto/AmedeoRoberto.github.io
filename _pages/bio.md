@@ -11,11 +11,9 @@ redirect_from:
 
 You can find my updated CV [here](/files/CV.pdf)
 
-My scientific agenda is summarised [here](/research), along with my list of publications. 
-
-My teaching activity can be found [here](/teaching).
-
-My talks and service to academia can be found [here](/services).
+My scientific agenda is summarised [here](/research), along with my list of publications. <br>
+My teaching activity can be found [here](/teaching).<br>
+My talks and service to academia can be found [here](/services).<br>
 
 Now, a bit about myself.
 
