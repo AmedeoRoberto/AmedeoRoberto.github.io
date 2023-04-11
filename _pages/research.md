@@ -24,6 +24,7 @@ and I am grateful for being able to do so with [Marco Mondelli](http://www.marco
 
 <h2 class="page__title">Preprints</h2>
 <ul>
+  <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/abs/2303.12497"> LINK </a></li>
   <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2303.07245.pdf "> LINK </a></li>
   <li>"Asymptotically Optimal Generalization Error Bounds for Noisy, Iterative Algorithms", Ibrahim Issa, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2302.14518.pdf"> LINK </a></li>
   <li>"A new approach to adaptive data analysis and learning via maximal leakage", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/1903.01777.pdf"> LINK </a></li>
