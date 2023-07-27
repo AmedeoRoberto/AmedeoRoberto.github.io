@@ -23,7 +23,7 @@ author_profile: true
 
 <h2> Talks </h2>
 <ul> 
-<li> Computing Sciences Seminar, <a=href="https://cs.unibocconi.eu/events/functional-perspective-information-measures-dr-amedeo-roberto-esposito"> Department of Computing Sciences </a> Bocconi, June 2023 </li>
+<li> Computing Sciences Seminar, <a href="https://cs.unibocconi.eu/events/functional-perspective-information-measures-dr-amedeo-roberto-esposito"> Department of Computing Sciences </a> Bocconi, June 2023 </li>
 <li> Information Processing Group Seminar, Host: <a href="https://www.epfl.ch/schools/ic/ipg/"> IPG </a> , EPFL, April 2023 </li>
 <li> Institute of Science and Tecnhology Austria, Host: <a href="http://marcomondelli.com"> Marco Mondelli </a>,  February 2022  </li>
 <li> INRIA Paris, Host: Catuscia Palamidessi, <a href="https://team.inria.fr/Comete/"> Equipe "Comete"</a>, November 2021  </li>
