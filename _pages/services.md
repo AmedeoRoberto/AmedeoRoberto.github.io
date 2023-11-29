@@ -7,9 +7,10 @@ author_profile: true
 
 <h2> Conferences Committees</h2>
 <ul>
-<li> PC-Member for the 35th International Workshop on Combinatorial Algorithms, 2024 </li>
-<li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/organization/technical-program-committee">LINK</a></li>
-<li> PC-Member for the Workshop on Federated Learning Technologies 2023, <a href="https://flw.di.unito.it/program-committee/">LINK</a></li>
+<li> PC-Member for the 20th International Conference on Machine Learning 2024, <a href="https://www.mlearning-conf.org/">LINK</a></li>
+<li> PC-Member for the 35th International Workshop on Combinatorial Algorithms 2024, <a href="http://iwoca2024.di.unisa.it/">LINK</a> </li>
+<li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/">LINK</a></li>
+<li> PC-Member for the Workshop on Federated Learning Technologies 2023, <a href="https://flw.di.unito.it/">LINK</a></li>
   
 </ul>
 
