@@ -26,7 +26,7 @@ author_profile: true
 
 <h2> Talks </h2>
 <ul> 
-<li> Information Theory Seminar, <a href="https://talks.cam.ac.uk/talk/index/205438"> Cambridge University </a>, November 2023 <\li>
+<li> Information Theory Seminar, <a href="https://talks.cam.ac.uk/talk/index/205438"> Cambridge University </a>, November 2023 
 <li> Computing Sciences Seminar, <a href="https://cs.unibocconi.eu/events/functional-perspective-information-measures-dr-amedeo-roberto-esposito"> Department of Computing Sciences </a> Bocconi, June 2023 </li>
 <li> Information Processing Group Seminar, Host: <a href="https://www.epfl.ch/schools/ic/ipg/"> IPG </a> , EPFL, April 2023 </li>
 <li> Institute of Science and Tecnhology Austria, Host: <a href="http://marcomondelli.com"> Marco Mondelli </a>,  February 2022  </li>
