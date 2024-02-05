@@ -23,6 +23,7 @@ and I am grateful for being able to do so with [Marco Mondelli](http://www.marco
 
 
 <h2 class="page__title">Preprints</h2>
+<ul>
   <li>"A new approach to adaptive data analysis and learning via maximal leakage", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/1903.01777.pdf"> LINK </a></li>
 </ul>
 
@@ -30,7 +31,6 @@ and I am grateful for being able to do so with [Marco Mondelli](http://www.marco
 <h2 class="page__title">Journals & Conferences</h2>
 <ul>
   <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli,<strong> Accepted for publication in the IEEE Transactions in Information Theory </strong><a href="https://arxiv.org/pdf/2303.07245.pdf "> LINK </a></li>
-<ul>
     <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, <strong> Accepted for publication in the Journal of Machine Learning Research (JMLR) </strong>,  <a href="https://arxiv.org/pdf/2303.12497.pdf"> LINK </a></li>
   <li>"Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage", <strong>Amedeo Roberto Esposito</strong>, Ibrahim Issa, Michael Gastpar, in <em> IEEE Transactions on Information Theory Volume: 67, Issue: 8</em>, <a href="https://ieeexplore.ieee.org/document/9444402"> LINK </a></li>
    <li>"Asymptotically Optimal Generalization Error Bounds for Noisy, Iterative Algorithms", Ibrahim Issa, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, <strong> Accepted for presentation at the 2023 Conference on Learning Theory (COLT) </strong>, <a href="https://arxiv.org/pdf/2302.14518.pdf"> LINK </a></li>
