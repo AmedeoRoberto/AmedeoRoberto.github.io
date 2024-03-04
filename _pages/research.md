@@ -18,12 +18,13 @@ The work I am most proud of is, at the moment, only available as a [conference p
 (a longer version is on its way). It encapsulates my views in which Information Measures simply are a bridge between spaces of measures
 and spaces of functions and therein lies their power. 
 
-My current interests consist in a deeper exploration of the framework I set up during my PhD,
+My current interests consist of a deeper exploration of the framework I set up during my PhD,
 and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com).
 
 
 <h2 class="page__title">Preprints</h2>
 <ul>
+  <li>"Contraction of Markovian Operators in Orlicz Spaces and Error Bounds for Markov Chain Monte Carlo", <strong> Amedeo Roberto Esposito </strong>, Marco Mondelli, Arxiv Pre-print <a href="https://arxiv.org/abs/2402.11200"> LINK </a> </li>
   <li>"A new approach to adaptive data analysis and learning via maximal leakage", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/1903.01777.pdf"> LINK </a></li>
 </ul>
 
