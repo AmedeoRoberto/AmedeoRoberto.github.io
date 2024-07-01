@@ -24,16 +24,20 @@ and I am grateful for being able to do so with [Marco Mondelli](http://www.marco
 
 <h2 class="page__title">Preprints</h2>
 <ul>
-  <li>"Contraction of Markovian Operators in Orlicz Spaces and Error Bounds for Markov Chain Monte Carlo", <strong> Amedeo Roberto Esposito </strong>, Marco Mondelli, Arxiv Pre-print <a href="https://arxiv.org/abs/2402.11200"> LINK </a> </li>
+  <li>"Sibson's α-Mutual Information and its Variational Representations", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/abs/2405.08352"> LINK </a></li>
   <li>"A new approach to adaptive data analysis and learning via maximal leakage", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/1903.01777.pdf"> LINK </a></li>
 </ul>
 
 
 <h2 class="page__title">Journals & Conferences</h2>
 <ul>
-  <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli,<strong> Accepted for publication in the IEEE Transactions on Information Theory </strong><a href="https://arxiv.org/pdf/2303.07245.pdf "> LINK </a></li>
+   
     <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, <strong> Accepted for publication in the Journal of Machine Learning Research (JMLR) </strong>,  <a href="https://arxiv.org/pdf/2303.12497.pdf"> LINK </a></li>
-  <li>"Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage", <strong>Amedeo Roberto Esposito</strong>, Ibrahim Issa, Michael Gastpar, in <em> IEEE Transactions on Information Theory Volume: 67, Issue: 8</em>, <a href="https://ieeexplore.ieee.org/document/9444402"> LINK </a></li>
+  <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, in <em> </em>IEEE Transactions on Information Theory  Volume: 70, Issue: 6, 2024 </em><a href="https://ieeexplore.ieee.org/document/10440389"> LINK </a></li>
+  <li>"Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage", <strong>Amedeo Roberto Esposito</strong>, Ibrahim Issa, Michael Gastpar, in <em> IEEE Transactions on Information Theory Volume: 67, Issue: 8, 2021</em>, <a href="https://ieeexplore.ieee.org/document/9444402"> LINK </a></li>
+   <li>"Variational Characterizations of Sibson’s α-Mutual Information", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, <strong> Accepted for presentation at the 2024 IEEE International Symposium on Information Theory (ISIT) </strong>, <a href="https://arxiv.org/abs/2405.08352"> LINK </a></li>
+    <li>"Properties of the Strong Data Processing Constant for Rényi Divergence", Lifu Jin, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, <strong> Accepted for presentation at the 2024 IEEE International Symposium on Information Theory (ISIT) </strong>, <a href="https://arxiv.org/abs/2403.10656"> LINK </a></li>
+     <li>"Contraction of Markovian Operators in Orlicz Spaces and Error Bounds for Markov Chain Monte Carlo", <strong> Amedeo Roberto Esposito </strong>, Marco Mondelli, <strong> Accepted for presentation at the 2024 Conference on Learning Theory (COLT) </strong> <a href="https://proceedings.mlr.press/v247/esposito24a/esposito24a.pdf"> LINK </a> </li>
    <li>"Asymptotically Optimal Generalization Error Bounds for Noisy, Iterative Algorithms", Ibrahim Issa, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, <strong> Accepted for presentation at the 2023 Conference on Learning Theory (COLT) </strong>, <a href="https://arxiv.org/pdf/2302.14518.pdf"> LINK </a></li>
    <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, <strong> Accepted for presentation at the 2023 IEEE International Symposium on Information Theory (ISIT) </strong>, <a href="https://arxiv.org/pdf/2303.07245.pdf "> LINK </a></li>
     <li>"From Generalisation Error to Transportation-cost Inequalities and Back",  <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar in <em> 2022 IEEE International Symposium on Information Theory (ISIT)</em>, <a href="https://ieeexplore.ieee.org/abstract/document/9834354"> LINK </a></li>
