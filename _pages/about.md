@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pleased to announce that in 2025 I will be joining the [Okinawa Institute of Science and Technology](https://www.oist.jp/) as a tenure-track Assistant Professor. 
-
-I will build my research group and I will have several postdoctoral positions open. 
+I am pleased to announce that in 2025 I will be joining the [Okinawa Institute of Science and Technology](https://www.oist.jp/) as a tenure-track Assistant Professor. \n I will build my research group and I will have several postdoctoral positions open. 
 
 In case you are interested and wish to apply, feel free to drop me an email. 
 
