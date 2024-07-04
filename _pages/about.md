@@ -7,17 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pleased to announce that in 2025 I will be joining the [Okinawa Institute of Science and Technology](https://www.oist.jp/) as a tenure-track Assistant Professor. \n I will build my research group and I will have several postdoctoral positions open. 
+I am pleased to announce that in 2025 I will be joining the [Okinawa Institute of Science and Technology](https://www.oist.jp/) as a tenure-track Assistant Professor.
 
+I will build my research group and I will have several postdoctoral positions open.<br>
 In case you are interested and wish to apply, feel free to drop me an email. 
 
 In case you wish to pursue a Ph.D. or an internship under my supervision, please notice that admission is centralised 
-and I cannot hire directly. 
-
-However, you are free to apply and mention my name in the application.
-
-[Apply to the PhD program](https://admissions.oist.jp/apply-phd)
-
+and I cannot hire directly. <br>
+However, you are free to apply and mention my name in the application.<br>
+[Apply to the PhD program](https://admissions.oist.jp/apply-phd)<br>
 [Apply to the Internship Program](https://admissions.oist.jp/apply-research-internship)
 
 Until September 2024 I will be a Postdoctoral Resarcher at the [Institute of Science and Technology Austria](https://ist.ac.at/en/home/) hosted by [Marco Mondelli](http://marcomondelli.com/). 
