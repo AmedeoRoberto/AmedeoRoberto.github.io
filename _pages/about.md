@@ -12,7 +12,7 @@ I am pleased to announce that in 2025 I will be joining the [Okinawa Institute o
 I will build my research group and I will have several postdoctoral positions open.<br>
 In case you are interested and wish to apply, feel free to drop me an email. 
 
-In case you wish to pursue a Ph.D. or an internship under my supervision, please notice that admission is centralised 
+In case you wish to pursue a Ph.D. or an internship under my supervision, please notice that admission at OIST is centralised 
 and I cannot hire directly. <br>
 However, you are free to apply and mention my name in the application.<br>
 [Apply to the PhD program](https://admissions.oist.jp/apply-phd)<br>
