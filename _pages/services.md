@@ -35,4 +35,4 @@ author_profile: true
 <li> <a href="https://mariodiaztorres.com/itmlss21f.html"> Information Theory, Machine Learning and Statistics Seminar</a>, Host: Mario Diaz, October 2021  </li>
 </ul>
 
-I am also a co-organiser for the series of interdisciplinary talks "Think and Drink" at ISTA.
+I have also been a co-organiser for the series of interdisciplinary talks "Think and Drink" at ISTA during the academic year 2022-2023.
