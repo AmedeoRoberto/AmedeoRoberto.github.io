@@ -35,7 +35,7 @@ I also believe in the importance of mental health and of taking care of oneself.
 Consequently, part of my efforts were directed towards demistifying psychotherapy and psychiatry. 
 Awareness is always the first step.
 
-I am amongst the organisers of the ''Think and Drink'' seminar series at ISTA. The purpose is 
+I was amongst the organisers of the ''Think and Drink'' seminar series at ISTA. The purpose is 
 to encourage interdisciplinarity and to spread awareness about the respective topics of research.
 We continuously invite local scientist to provide a short but, most importantly, accessible talk
 on a topic that matters to them (generally, their research topic). The talk is then followed by a light buffet 
