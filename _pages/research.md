@@ -30,7 +30,7 @@ My current interests consist of a deeper exploration of the framework I set up d
 <h2 class="page__title">Journals & Conferences</h2>
 <ul>
    
-    <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, <strong> Accepted for publication in the Journal of Machine Learning Research (JMLR) </strong>,  <a href="https://arxiv.org/pdf/2303.12497.pdf"> LINK </a></li>
+    <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, in <em> Journal of Machine Learning Research (JMLR)  Volume:25, Number: 360, 2024.</em>,  <a href="https://www.jmlr.org/papers/v25/23-0361.html"> LINK </a></li>
   <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, in <em> IEEE Transactions on Information Theory  Volume: 70, Issue: 6, 2024 </em> <a href="https://ieeexplore.ieee.org/document/10440389"> LINK </a></li>
   <li>"Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage", <strong>Amedeo Roberto Esposito</strong>, Ibrahim Issa, Michael Gastpar, in <em> IEEE Transactions on Information Theory Volume: 67, Issue: 8, 2021</em>, <a href="https://ieeexplore.ieee.org/document/9444402"> LINK </a></li>
    <li>"Variational Characterizations of Sibson’s α-Mutual Information", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, <strong> Accepted for presentation at the 2024 IEEE International Symposium on Information Theory (ISIT) </strong>, <a href="https://arxiv.org/abs/2405.08352"> LINK </a></li>
