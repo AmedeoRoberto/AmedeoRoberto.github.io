@@ -18,9 +18,7 @@ The work I am most proud of is, at the moment, only available as a [conference p
 (a longer version is on its way). It encapsulates my views in which Information Measures simply are a bridge between spaces of measures
 and spaces of functions and therein lies their power. 
 
-My current interests consist of a deeper exploration of the framework I set up during my PhD,
-and I am grateful for being able to do so with [Marco Mondelli](http://www.marcomondelli.com).
-
+My current interests consist of a deeper exploration of the framework I set up during my PhD with applications to various fields (Learning Theory, Statistics, Probability Theory, Estimation Theory, Computational Neuroscience, Computational Biology).
 
 <h2 class="page__title">Preprints</h2>
 <ul>
