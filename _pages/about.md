@@ -22,5 +22,5 @@ However, you are free to apply and mention my name in the application.<br>
 <h2 class="page__title">Phd students and Postdocs</h2>
 I am honored to work with the following PhD students and Postdocs
 <ul>
-  <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a> (PhD student co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar </a></li>
+  <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a> (PhD student co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar ) </a></li>
 </ul>
