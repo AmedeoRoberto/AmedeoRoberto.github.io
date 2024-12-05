@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I now (Transitional) Assistant Professor at the [Okinawa Institute of Science and Technology](https://www.oist.jp/) and I will start my full-time appointment as tenure-track Assistant Professor in February 2025.
+I am now (Transitional) Assistant Professor at the [Okinawa Institute of Science and Technology](https://www.oist.jp/) and I will start my full-time appointment as tenure-track Assistant Professor in February 2025.
 
 I will build my research group and I have several postdoctoral positions open.
 For more details and information check [here](https://www.oist.jp/careers/postdoc-information-theory-probability-and-statistics-unit). <br>
