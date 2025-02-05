@@ -11,6 +11,7 @@ author_profile: true
 <li> PC-Member for the 35th International Workshop on Combinatorial Algorithms 2024, <a href="http://iwoca2024.di.unisa.it/">LINK</a> </li>
 <li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/">LINK</a></li>
 <li> PC-Member for the Workshop on Federated Learning Technologies 2023, <a href="https://flw.di.unito.it/">LINK</a></li>
+<li> TPC-Member for the IEEE International Symposium on Information Theory 202５, <a href="https://2025.ieee-isit.org/">LINK</a></li>
   
 </ul>
 
