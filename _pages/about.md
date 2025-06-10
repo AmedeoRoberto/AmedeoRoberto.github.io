@@ -19,8 +19,10 @@ However, you are free to apply and mention my name in the application.<br>
 [Apply to the PhD program](https://admissions.oist.jp/apply-phd)<br>
 [Apply to the Internship Program](https://admissions.oist.jp/apply-research-internship)
 
-<h2 class="page__title">Phd students and Postdocs</h2>
-I am honored to work with the following PhD students and Postdocs
+<h2 class="page__title">Collaborators</h2>
+I am honored and lucky to be able to work with the following Scientists:
 <ul>
-  <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a> (PhD student co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar ) </a></li>
+  <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a>, PhD student co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar</a></li>
+  <li> <a href="https://adrienvdb.com/"> Yifei Ma </a>, Lab Technician </li>
+  <li> <a href="https://adrienvdb.com/"> Elias Vera Siguenza </a>, Postdoc </li>
 </ul>
