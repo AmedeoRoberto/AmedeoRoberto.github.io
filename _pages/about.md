@@ -24,4 +24,6 @@ I am honored and lucky to be able to work with the following Scientists:
 <ul>
   <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a>, PhD student co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar</a></li>
   <li> Elias Vera Siguenza, Postdoc </li>
+  <li>  <a href="https://nathanajudd.com/"> Nathan Judd, Postdoc </a>,</li>
+  <li> <a href="https://sites.google.com/view/ryomoore/"> Ryo Moore, Staff Scientist </a>,</li>
 </ul>
