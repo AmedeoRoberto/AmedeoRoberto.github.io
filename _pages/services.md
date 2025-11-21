@@ -5,14 +5,16 @@ permalink: /services/
 author_profile: true
 ---
 
-<h2> Conferences Committees</h2>
-<ul>
-<li> PC-Member for the 20th International Conference on Mobile Learning 2024, <a href="https://www.mlearning-conf.org/">LINK</a></li>
-<li> PC-Member for the 35th International Workshop on Combinatorial Algorithms 2024, <a href="http://iwoca2024.di.unisa.it/">LINK</a> </li>
-<li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/">LINK</a></li>
+<h2> Service </h2>
+<ul> 
+<li> Organiser of the first Edition of the Information Theory In Modern Science (ITMS) Workshop 2026, <a href="https://www.oist.jp/conference/information-theory-modern-science">LINK</a></li>
+<li> Co-organiser of the ML Summer School 2027, <a href="https://oist.github.io/mlss2027okinawa/">LINK</a></li>
+<li> Co-organiser of the OIST ML Workshop 2025, <a href="https://omlw2025.mlds.jp/">LINK</a></li>
+<li> TPC-Member for the IEEE International Symposium on Information Theory 2025, <a href="https://2025.ieee-isit.org/">LINK</a></li>
 <li> PC-Member for the Workshop on Federated Learning Technologies 2023, <a href="https://flw.di.unito.it/">LINK</a></li>
-<li> TPC-Member for the IEEE International Symposium on Information Theory 202５, <a href="https://2025.ieee-isit.org/">LINK</a></li>
-  
+<li> PC-Member for the 35th International Workshop on Combinatorial Algorithms 2024, <a href="http://iwoca2024.di.unisa.it/">LINK</a> </li>
+<li> PC-Member for the 20th International Conference on Mobile Learning 2024, <a href="https://www.mlearning-conf.org/">LINK</a></li>
+<li> TPC-Member for the IEEE International Symposium on Information Theory 2023, <a href="https://isit2023.org/">LINK</a></li>
 </ul>
 
 <h2>Active reviewer for:</h2>
