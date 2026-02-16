@@ -22,14 +22,17 @@ My current interests consist of a deeper exploration of the framework I set up d
 
 <h2 class="page__title">Preprints</h2>
 <ul>
-  <li>"Sibson's α-Mutual Information and its Variational Representations", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/abs/2405.08352"> LINK </a></li>
+  
+  <li>"Geometric Convergence Analysis of Variational Inference via Bregman Divergences", Sushil Bohara, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2510.15548"> LINK </a></li>
+  <li>"Contraction of Rényi Divergences for Discrete Channels: Properties and Applications", Adrien Vandenbroucque, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2601.09328"> LINK </a></li>
+  <li>"A Finite-Sample Strong Converse for Binary Hypothesis Testing via (Reverse) Rényi Divergence", Roberto Bruno, Adrien Vandenbroucque, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2601.09550"> LINK </a></li>
   <li>"A new approach to adaptive data analysis and learning via maximal leakage", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/1903.01777.pdf"> LINK </a></li>
 </ul>
 
 
 <h2 class="page__title">Journals & Conferences</h2>
 <ul>
-   
+   <li>"Sibson's α-Mutual Information and its Variational Representations", <strong>Amedeo Roberto Esposito</strong>,  Ibrahim Issa, Michael Gastpar,in <em> IEEE Transactions on Information Theory 2025 </em> <a href="https://ieeexplore.ieee.org/document/11078297"> LINK </a></li>
     <li>"Lower Bounds on the Bayesian Risk via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, in <em> Journal of Machine Learning Research (JMLR)  Volume:25, Number: 360, 2024 </em>,  <a href="https://www.jmlr.org/papers/v25/23-0361.html"> LINK </a></li>
   <li>"Concentration without Independence via Information Measures", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, in <em> IEEE Transactions on Information Theory  Volume: 70, Issue: 6, 2024 </em> <a href="https://ieeexplore.ieee.org/document/10440389"> LINK </a></li>
   <li>"Generalization Error Bounds Via Rényi-, f-Divergences and Maximal Leakage", <strong>Amedeo Roberto Esposito</strong>, Ibrahim Issa, Michael Gastpar, in <em> IEEE Transactions on Information Theory Volume: 67, Issue: 8, 2021</em>, <a href="https://ieeexplore.ieee.org/document/9444402"> LINK </a></li>
