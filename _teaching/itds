@@ -9,8 +9,8 @@ location:
 ---
 
 I co-taught (along with Marco Mondelli) the Ph.D. class on Information Theory (for Data Science).
-The class covers a variety of classical and more modern results with an information-theoretic flavor.
-We will talk about: Information measures, compression, prediction, estimation,
+The class covered a variety of classical and more modern results with an information-theoretic flavor.
+More precisely we covered: Information measures, compression, prediction, estimation,
 large deviations (Sanov style), multi-armed bandits, exponential families,
 exploration bias and generalisation error.
 
