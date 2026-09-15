@@ -23,6 +23,7 @@ However, you are free to apply and mention my name in the application.<br>
 I am honored and lucky to be able to work with the following Scientists:
 <ul>
   <li> <a href="https://adrienvdb.com/"> Adrien Vandenbroucque </a>, PhD student, co-supervised with <a href="https://people.epfl.ch/michael.gastpar?lang=en/"> Michael Gastpar</a></li>
+  <li> <a href="https://hw581.github.io/"> Haruka Eshima </a>, PhD student, co-supervised with Makoto Yamada </li>
   <li> Elias Vera Siguenza, Postdoc </li>
   <li>  <a href="https://nathanajudd.com/"> Nathan Judd, Postdoc </a></li>
   <li> <a href="https://sites.google.com/view/ryomoore/"> Ryo Moore, Staff Scientist </a></li>
