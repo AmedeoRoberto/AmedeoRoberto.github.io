@@ -24,7 +24,8 @@ author_profile: true
 <li> IEEE Transactions on Information Theory</li>
 <li> IEEE Journal on Selected Areas in Information Theory (JSAIT) </li>
 <li> Transactions on Machine Learning Research </li>
-<li> Entropy </li>
+<li> Neurocomputing </li>
+<li> Nature Communications </li>
 <li> IEEE International Symposium on Information Theory (ISIT) </li>
 <li> IEEE Information Theory Workshop (ITW) </li>
 </ul>
