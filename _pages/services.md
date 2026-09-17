@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 <h2> Service </h2>
-<ul> 
+<ul>
+<li> PC-Member for The 38th International Conference on Algorithmic Learning Theory, ALT 2027, <a href="https://staging.algorithmiclearningtheory.org/">LINK</a></li>
 <li> TPC-Member for The International Symposium on Information Theory and Its Applications 2026, <a href="https://isita.ieice.org/2026/">LINK</a></li>
 <li> Organiser of the first Edition of the Information Theory In Modern Science (ITMS) Workshop 2026, <a href="https://www.oist.jp/conference/information-theory-modern-science">LINK</a></li>
 <li> Co-organiser of the ML Summer School 2027, <a href="https://oist.github.io/mlss2027okinawa/">LINK</a></li>
