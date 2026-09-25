@@ -22,6 +22,7 @@ My current interests consist of a deeper exploration of the framework I set up d
 
 <h2 class="page__title">Preprints</h2>
 <ul>
+  <li>"Finite-Sample Binary Hypothesis Testing via Rényi Divergences: Strong Converse and Local Privacy", Roberto Bruno, Adrien Vandenbroucque, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/abs/2609.27617"> LINK </a></li>
   <li>"Minimax Quantile Bounds via Information Measures", Amedeo Roberto Esposito, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2608.20857"> LINK </a></li>
   <li>"Finite Sample Bounds for Composite Hypothesis Testing", Elías Vera-Sigüenza, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2608.28068"> LINK </a></li>
   <li>"Geometric Convergence Analysis of Variational Inference via Bregman Divergences", Sushil Bohara, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2510.15548"> LINK </a></li>
