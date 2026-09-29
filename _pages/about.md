@@ -9,9 +9,8 @@ redirect_from:
 ---
 I am now Assistant Professor at the [Okinawa Institute of Science and Technology](https://www.oist.jp/).
 
-I will build my research group and I have several postdoctoral positions open.
 For more details and information check [here](https://www.oist.jp/careers/postdoc-information-theory-probability-and-statistics-unit). <br>
-In case you are interested and wish to apply, feel free to drop me an email. 
+In case you are interested and wish to apply for a postdoc position, feel free to drop me an email. 
 
 In case you wish to pursue a Ph.D.under my supervision, please notice that admission at OIST is centralised 
 and I cannot hire directly. <br>
