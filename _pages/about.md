@@ -19,6 +19,8 @@ However, you are free to apply and mention my name in the application.<br>
 [Apply to the PhD program](https://admissions.oist.jp/apply-phd)<br>
 [Apply to the Internship Program](https://admissions.oist.jp/apply-research-internship)
 
+**For internship or PhD opportunities, please apply through the official channels and avoid contacting me directly about your application. Due to the high volume of inquiries, I’m unable to respond to individual emails.**
+
 <h2 class="page__title">Collaborators</h2>
 I am honored and lucky to be able to work with the following Scientists:
 <ul>
