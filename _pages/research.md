@@ -22,6 +22,11 @@ My current interests consist of a deeper exploration of the framework I set up d
 
 <h2 class="page__title">Preprints</h2>
 <ul>
+  <li>"A One-Sided McDiarmid-Type Inequality for Heavy Tails via Reverse KL Tensorization", Haruka Eshima, <strong>Amedeo Roberto Esposito</strong>, Andrea Paudice, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.21103"> LINK </a></li>
+  <li>"Distribution-Dependent Improvements of McDiarmid's Inequality via Rényi Divergence", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.17736"> LINK </a></li>
+  <li>"Beyond Hypercontractivity: Stronger Communication Converses via Rényi Contraction", Ryo Hommura Moore, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.13030"> LINK </a></li>
+  <li>"On the Impossibility of Estimating the Average Mixing Time", Nathan Judd, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.10860"> LINK </a></li>
+  <li>"Contraction of Rényi Divergences for Discrete Channels", Adrien Vandenbroucque, <strong>Amedeo Roberto Esposito</strong>, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2609.34570"> LINK </a></li>
   <li>"Finite-Sample Binary Hypothesis Testing via Rényi Divergences: Strong Converse and Local Privacy", Roberto Bruno, Adrien Vandenbroucque, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/abs/2609.27617"> LINK </a></li>
   <li>"Minimax Quantile Bounds via Information Measures", Amedeo Roberto Esposito, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2608.20857"> LINK </a></li>
   <li>"Finite Sample Bounds for Composite Hypothesis Testing", Elías Vera-Sigüenza, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2608.28068"> LINK </a></li>
