@@ -22,6 +22,7 @@ My current interests consist of a deeper exploration of the framework I set up d
 
 <h2 class="page__title">Preprints</h2>
 <ul>
+  <li>"Tight Bounds for Linear and Non-Linear Contraction of Divergences via Duality", <strong>Amedeo Roberto Esposito</strong>, Marco Mondelli, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2402.11200"> LINK </a></li>
   <li>"A One-Sided McDiarmid-Type Inequality for Heavy Tails via Reverse KL Tensorization", Haruka Eshima, <strong>Amedeo Roberto Esposito</strong>, Andrea Paudice, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.21103"> LINK </a></li>
   <li>"Distribution-Dependent Improvements of McDiarmid's Inequality via Rényi Divergence", <strong>Amedeo Roberto Esposito</strong>, Adrien Vandenbroucque, Michael Gastpar, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.17736"> LINK </a></li>
   <li>"Beyond Hypercontractivity: Stronger Communication Converses via Rényi Contraction", Ryo Hommura Moore, <strong>Amedeo Roberto Esposito</strong>, Arxiv Pre-print, <a href="https://arxiv.org/pdf/2610.13030"> LINK </a></li>
